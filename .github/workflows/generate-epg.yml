@@ -1,0 +1,95 @@
+name: 📺 Gerar EPG IPTV
+
+on:
+
+  workflow_dispatch:
+
+  schedule:
+    # Executa todos os dias às 03:00 UTC
+    # = 00:00 no horário de Brasília/Fortaleza
+    - cron: "0 3 * * *"
+
+  push:
+    paths:
+      - "epg_generator.py"
+      - "config.json"
+      - "requirements.txt"
+      - ".github/workflows/generate-epg.yml"
+
+permissions:
+  contents: write
+
+jobs:
+
+  generate:
+
+    name: 🚀 Gerar EPG
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ----------------------------------------------------
+      # CHECKOUT
+      # ----------------------------------------------------
+
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      # ----------------------------------------------------
+      # PYTHON
+      # ----------------------------------------------------
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ----------------------------------------------------
+      # DEPENDÊNCIAS
+      # ----------------------------------------------------
+
+      - name: 📦 Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ----------------------------------------------------
+      # EXECUTAR
+      # ----------------------------------------------------
+
+      - name: 📺 Gerar EPG
+        run: |
+          python epg_generator.py --days 2
+
+      # ----------------------------------------------------
+      # VALIDAR
+      # ----------------------------------------------------
+
+      - name: 🔎 Validar EPG
+        run: |
+          test -s output/epg.xml
+          test -s output/epg.xml.gz
+          test -s output/epg_aliases.json
+
+          echo "EPG gerado:"
+          ls -lh output/
+
+      # ----------------------------------------------------
+      # COMMIT
+      # ----------------------------------------------------
+
+      - name: 💾 Salvar EPG no GitHub
+        run: |
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add output/
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração no EPG."
+          else
+            git commit -m "📺 Atualizar EPG IPTV"
+            git push
+          fi
