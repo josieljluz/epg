@@ -42,8 +42,8 @@
   <channel id="sbt-rio-de-janeiro-15-30-fofocalizando-17-00-o-que-a-vida-me-roubou-18-15-sbt-rio-2-edicao.br">
     <display-name lang="pt">SBT Rio de Janeiro 15:30 - Fofocalizando 17:00 - O que a Vida me Roubou 18:15 - SBT Rio - 2ª Edição</display-name>
   </channel>
-  <channel id="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br">
-    <display-name lang="pt">TV Aparecida 15:30 - Viva a Tarde 16:45 - TJ Aparecida 17:50 - Escola de Maria</display-name>
+  <channel id="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br">
+    <display-name lang="pt">TV Aparecida 16:45 - TJ Aparecida 17:50 - Escola de Maria 18:00 - Basílica Histórica de Nossa Senhora Aparecida : Missa</display-name>
   </channel>
   <channel id="tv-assembleia-pi.br">
     <display-name lang="pt">TV Assembleia</display-name>
@@ -54,8 +54,8 @@
   <channel id="tv-camara-14-15-reapresentacao-de-comissao-18-00-participacao-popular-19-00-fatos-e-opinioes.br">
     <display-name lang="pt">TV Câmara 14:15 - Reapresentação de Comissão 18:00 - Participação Popular 19:00 - Fatos e Opiniões</display-name>
   </channel>
-  <channel id="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br">
-    <display-name lang="pt">TV Cultura 16:30 - Quintal no Museu : Museu Catavento 16:45 - Irmão do Jorel : Ladrãozinho de Shopping 17:00 - Mundo da Lua : A Revolta de Marli Silva</display-name>
+  <channel id="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br">
+    <display-name lang="pt">TV Cultura 16:45 - Irmão do Jorel : Ladrãozinho de Shopping 17:00 - Mundo da Lua : A Revolta de Marli Silva 17:30 - O Mundo de Beakman : Protozoologia, Beakmania e Dublês de Cinema</display-name>
   </channel>
   <channel id="tv-gazeta-15-30-mulheres-17-45-gazeta-news-18-00-gazeta-esportiva.br">
     <display-name lang="pt">Tv Gazeta 15:30 - Mulheres 17:45 - Gazeta News 18:00 - Gazeta Esportiva</display-name>
@@ -2928,166 +2928,163 @@
   <programme channel="sbt-rio-de-janeiro-15-30-fofocalizando-17-00-o-que-a-vida-me-roubou-18-15-sbt-rio-2-edicao.br" start="20260904231500 -0300" stop="20260905001500 -0300">
     <title lang="pt">Aeroporto - Área Restrita</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904030000 -0300" stop="20260904030000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904030000 -0300" stop="20260904030000 -0300">
     <title lang="pt">Terço de Aparecida : Padre Antônio Maria Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904033000 -0300" stop="20260904033000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904033000 -0300" stop="20260904033000 -0300">
     <title lang="pt">Família dos Devotos Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904033000 -0300" stop="20260904040000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904033000 -0300" stop="20260904040000 -0300">
     <title lang="pt">Fortes na Fé Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904040000 -0300" stop="20260904050000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904040000 -0300" stop="20260904050000 -0300">
     <title lang="pt">Conectados pela Fé Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904050000 -0300" stop="20260904050000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904050000 -0300" stop="20260904050000 -0300">
     <title lang="pt">Aparecida Debate</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904050000 -0300" stop="20260904060000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904050000 -0300" stop="20260904060000 -0300">
     <title lang="pt">Arquivo A Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904060000 -0300" stop="20260904060000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904060000 -0300" stop="20260904060000 -0300">
     <title lang="pt">Devocional Bom Jesus de Pirapora Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904060000 -0300" stop="20260904061500 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904060000 -0300" stop="20260904061500 -0300">
     <title lang="pt">Celebrar Bem Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904061500 -0300" stop="20260904063000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904061500 -0300" stop="20260904063000 -0300">
     <title lang="pt">Terço de Aparecida : Padre Antônio Maria Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904063000 -0300" stop="20260904064500 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904063000 -0300" stop="20260904064500 -0300">
     <title lang="pt">Santuário de Bom Jesus da Lapa : Missa Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904064500 -0300" stop="20260904072000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904064500 -0300" stop="20260904072000 -0300">
     <title lang="pt">Fortes na Fé Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904072000 -0300" stop="20260904073500 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904072000 -0300" stop="20260904073500 -0300">
     <title lang="pt">Celebrar Bem Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904073500 -0300" stop="20260904074500 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904073500 -0300" stop="20260904074500 -0300">
     <title lang="pt">Intercede por Nós Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904074500 -0300" stop="20260904075000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904074500 -0300" stop="20260904075000 -0300">
     <title lang="pt">Celebrar Bem Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904075000 -0300" stop="20260904080000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904075000 -0300" stop="20260904080000 -0300">
     <title lang="pt">Ao Redor do Altar Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904080000 -0300" stop="20260904080000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904080000 -0300" stop="20260904080000 -0300">
     <title lang="pt">Terço da Esperança e da Solidariedade Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904080000 -0300" stop="20260904085000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904080000 -0300" stop="20260904085000 -0300">
     <title lang="pt">Santuário Nacional de Aparecida : Missa Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904085000 -0300" stop="20260904090000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904085000 -0300" stop="20260904090000 -0300">
     <title lang="pt">Ao Redor do Altar Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904090000 -0300" stop="20260904090000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904090000 -0300" stop="20260904090000 -0300">
     <title lang="pt">Santuário Nacional de Aparecida : Missa Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904090000 -0300" stop="20260904100000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904090000 -0300" stop="20260904100000 -0300">
     <title lang="pt">Terra da Padroeira : Especial de Aniversário da TV Aparecida</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904100000 -0300" stop="20260904120000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904100000 -0300" stop="20260904120000 -0300">
     <title lang="pt">Sábado no Santuário : Especial de Aniversário da TV Aparecida Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904120000 -0300" stop="20260904120000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904120000 -0300" stop="20260904120000 -0300">
     <title lang="pt">Santuário Nacional de Aparecida : Missa Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904130000 -0300" stop="20260904130000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904130000 -0300" stop="20260904130000 -0300">
     <title lang="pt">Horário Eleitoral</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904130000 -0300" stop="20260904132500 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904130000 -0300" stop="20260904132500 -0300">
     <title lang="pt">Sabor de Vida : Melhores Receitas</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904132500 -0300" stop="20260904140000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904132500 -0300" stop="20260904140000 -0300">
     <title lang="pt">Retratos Fémininos Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904140000 -0300" stop="20260904140000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904140000 -0300" stop="20260904140000 -0300">
     <title lang="pt">Terço de Aparecida : Hora Mariana Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904140000 -0300" stop="20260904143000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904140000 -0300" stop="20260904143000 -0300">
     <title lang="pt">Retratos Fémininos Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904143000 -0300" stop="20260904150000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904143000 -0300" stop="20260904150000 -0300">
     <title lang="pt">Intercede por Nós Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904150000 -0300" stop="20260904150000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904150000 -0300" stop="20260904150000 -0300">
     <title lang="pt">Conectados pela Fé Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904150000 -0300" stop="20260904153000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904150000 -0300" stop="20260904160000 -0300">
     <title lang="pt">Prosa Brasil</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904153000 -0300" stop="20260904153000 -0300">
-    <title lang="pt">Canal Aberto Programação TV Aparecida</title>
-  </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904153000 -0300" stop="20260904160000 -0300">
-    <title lang="pt">Viva a Tarde</title>
-  </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904160000 -0300" stop="20260904161500 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904160000 -0300" stop="20260904161500 -0300">
     <title lang="pt">Amigos para Sempre</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904161500 -0300" stop="20260904164500 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904161500 -0300" stop="20260904164500 -0300">
     <title lang="pt">Arquivo A Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904164500 -0300" stop="20260904170000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904164500 -0300" stop="20260904164500 -0300">
+    <title lang="pt">Canal Aberto Programação TV Aparecida</title>
+  </programme>
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904164500 -0300" stop="20260904170000 -0300">
     <title lang="pt">TJ Aparecida Religioso Acompanhe as principais notícias da igreja, do Brasil e do mundo.</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904170000 -0300" stop="20260904173000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904170000 -0300" stop="20260904173000 -0300">
     <title lang="pt">Jornada Bíblica Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904173000 -0300" stop="20260904175000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904173000 -0300" stop="20260904175000 -0300">
     <title lang="pt">Fortes na Fé Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904175000 -0300" stop="20260904175000 -0300">
-    <title lang="pt">Escola de Maria Religioso</title>
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904175000 -0300" stop="20260904175000 -0300">
+    <title lang="pt">Escola de Maria Religioso O arcebispo de Aparecida, Dom Orlando Brandes, reflete e fala sobre Maria.</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904175000 -0300" stop="20260904180000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904175000 -0300" stop="20260904180000 -0300">
     <title lang="pt">Ao Redor do Altar Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904180000 -0300" stop="20260904180000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904180000 -0300" stop="20260904180000 -0300">
     <title lang="pt">Basílica Histórica de Nossa Senhora Aparecida : Missa Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904180000 -0300" stop="20260904190000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904180000 -0300" stop="20260904190000 -0300">
     <title lang="pt">Basílica de São Geraldo : Missa Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904190000 -0300" stop="20260904190000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904190000 -0300" stop="20260904190000 -0300">
     <title lang="pt">Terço de Aparecida : Padre Antônio Maria Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904193000 -0300" stop="20260904193000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904193000 -0300" stop="20260904193000 -0300">
     <title lang="pt">Coração Restaurado Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904193000 -0300" stop="20260904200000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904193000 -0300" stop="20260904200000 -0300">
     <title lang="pt">A Redenção Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904200000 -0300" stop="20260904203000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904200000 -0300" stop="20260904203000 -0300">
     <title lang="pt">Aparecida Sertaneja Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904203000 -0300" stop="20260904203000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904203000 -0300" stop="20260904203000 -0300">
     <title lang="pt">Horário Eleitoral</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904205500 -0300" stop="20260904205500 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904205500 -0300" stop="20260904205500 -0300">
     <title lang="pt">Um Anjo em Nossas Vidas</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904205500 -0300" stop="20260904223000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904205500 -0300" stop="20260904223000 -0300">
     <title lang="pt">Terra da Padroeira</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904223000 -0300" stop="20260904230000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904223000 -0300" stop="20260904230000 -0300">
     <title lang="pt">Expedições ao Sagrado Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904230000 -0300" stop="20260904231500 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904230000 -0300" stop="20260904231500 -0300">
     <title lang="pt">Devotos Mirins Show</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904231500 -0300" stop="20260904232000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904231500 -0300" stop="20260904232000 -0300">
     <title lang="pt">Diálogos - Qual Caminho Seguir? Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904232000 -0300" stop="20260904232500 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904232000 -0300" stop="20260904232500 -0300">
     <title lang="pt">Escola de Maria Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904232500 -0300" stop="20260904233000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904232500 -0300" stop="20260904233000 -0300">
     <title lang="pt">Mensagem de Fé Religioso</title>
   </programme>
-  <programme channel="tv-aparecida-15-30-viva-a-tarde-16-45-tj-aparecida-17-50-escola-de-maria.br" start="20260904233000 -0300" stop="20260904233000 -0300">
+  <programme channel="tv-aparecida-16-45-tj-aparecida-17-50-escola-de-maria-18-00-basilica-historica-de-nossa-senhora-aparecida-missa.br" start="20260904233000 -0300" stop="20260904233000 -0300">
     <title lang="pt">Medalhão.com</title>
   </programme>
   <programme channel="tv-assembleia-pi.br" start="20260904060000 -0300" stop="20260904060000 -0300">
@@ -3735,298 +3732,298 @@
   <programme channel="tv-camara-14-15-reapresentacao-de-comissao-18-00-participacao-popular-19-00-fatos-e-opinioes.br" start="20260904234500 -0300" stop="20260904234500 -0300">
     <title lang="pt">Palavra Aberta</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904003000 -0300" stop="20260904010000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904003000 -0300" stop="20260904010000 -0300">
     <title lang="pt">Metrópolis</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904010000 -0300" stop="20260904010000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904010000 -0300" stop="20260904010000 -0300">
     <title lang="pt">Linhas Cruzadas : Os Escritores Profetas Jornalismo</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904010000 -0300" stop="20260904020000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904010000 -0300" stop="20260904020000 -0300">
     <title lang="pt">Roda Viva</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904020000 -0300" stop="20260904023000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904020000 -0300" stop="20260904023000 -0300">
     <title lang="pt">Jornal da Cultura Jornalismo</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904023000 -0300" stop="20260904030000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904023000 -0300" stop="20260904030000 -0300">
     <title lang="pt">Matéria de Capa</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904030000 -0300" stop="20260904030000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904030000 -0300" stop="20260904030000 -0300">
     <title lang="pt">Arena dos Saberes</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904030000 -0300" stop="20260904040000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904030000 -0300" stop="20260904040000 -0300">
     <title lang="pt">Persona</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904040000 -0300" stop="20260904040000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904040000 -0300" stop="20260904040000 -0300">
     <title lang="pt">Inglês com Música : Satisfaction - Rolling Stones</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904040000 -0300" stop="20260904050000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904040000 -0300" stop="20260904050000 -0300">
     <title lang="pt">Inglês com Música</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904050000 -0300" stop="20260904050000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904050000 -0300" stop="20260904050000 -0300">
     <title lang="pt">Jornal da Cultura Jornalismo</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904060000 -0300" stop="20260904063000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904060000 -0300" stop="20260904063000 -0300">
     <title lang="pt">Viola, Minha Viola</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904063000 -0300" stop="20260904070000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904063000 -0300" stop="20260904070000 -0300">
     <title lang="pt">Vamos Pedalar</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904070000 -0300" stop="20260904070000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904070000 -0300" stop="20260904070000 -0300">
     <title lang="pt">Peppa</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904070000 -0300" stop="20260904071500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904070000 -0300" stop="20260904071500 -0300">
     <title lang="pt">Brasil, Mostra a Tua Cara!</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904071500 -0300" stop="20260904072000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904071500 -0300" stop="20260904072000 -0300">
     <title lang="pt">Léo - O Caminhão</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904072000 -0300" stop="20260904073000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904072000 -0300" stop="20260904073000 -0300">
     <title lang="pt">Planeta Palavra</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904073000 -0300" stop="20260904073000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904073000 -0300" stop="20260904073000 -0300">
     <title lang="pt">Turbossauros</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904073000 -0300" stop="20260904074000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904073000 -0300" stop="20260904074000 -0300">
     <title lang="pt">Saúde Brasil</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904074000 -0300" stop="20260904074500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904074000 -0300" stop="20260904074500 -0300">
     <title lang="pt">Parquinho Jurássico</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904074500 -0300" stop="20260904080000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904074500 -0300" stop="20260904080000 -0300">
     <title lang="pt">Palaloos</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904080000 -0300" stop="20260904080000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904080000 -0300" stop="20260904080000 -0300">
     <title lang="pt">Cocoricó Conta Clássicos</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904080000 -0300" stop="20260904081500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904080000 -0300" stop="20260904081500 -0300">
     <title lang="pt">Missa de Aparecida - Matriz Basílica Religioso</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904081500 -0300" stop="20260904083000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904081500 -0300" stop="20260904083000 -0300">
     <title lang="pt">Cocoricó</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904083000 -0300" stop="20260904084000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904083000 -0300" stop="20260904084000 -0300">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904084000 -0300" stop="20260904084500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904084000 -0300" stop="20260904084500 -0300">
     <title lang="pt">Paramigos Imparáveis</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904084500 -0300" stop="20260904090000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904084500 -0300" stop="20260904090000 -0300">
     <title lang="pt">Bing</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904090000 -0300" stop="20260904090000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904090000 -0300" stop="20260904090000 -0300">
     <title lang="pt">Milo</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904090000 -0300" stop="20260904091000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904090000 -0300" stop="20260904091000 -0300">
     <title lang="pt">Balaio</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904091000 -0300" stop="20260904092500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904091000 -0300" stop="20260904092500 -0300">
     <title lang="pt">PJ Masks - Heróis de Pijama</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904092500 -0300" stop="20260904094000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904092500 -0300" stop="20260904094000 -0300">
     <title lang="pt">Bluey</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904094000 -0300" stop="20260904095500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904094000 -0300" stop="20260904095500 -0300">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904095500 -0300" stop="20260904100000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904095500 -0300" stop="20260904100000 -0300">
     <title lang="pt">Os Óculos Mágicos de Charlotte</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904100000 -0300" stop="20260904100500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904100000 -0300" stop="20260904100500 -0300">
     <title lang="pt">Agrocultura</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904100500 -0300" stop="20260904101500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904100500 -0300" stop="20260904101500 -0300">
     <title lang="pt">Histórias Atrás da Porta</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904101500 -0300" stop="20260904103000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904101500 -0300" stop="20260904103000 -0300">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904103000 -0300" stop="20260904103000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904103000 -0300" stop="20260904103000 -0300">
     <title lang="pt">Bino e Fino</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904103000 -0300" stop="20260904104000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904103000 -0300" stop="20260904104000 -0300">
     <title lang="pt">Negros em Foco</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904104000 -0300" stop="20260904104500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904104000 -0300" stop="20260904104500 -0300">
     <title lang="pt">Godofredo</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904104500 -0300" stop="20260904110000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904104500 -0300" stop="20260904110000 -0300">
     <title lang="pt">Iuri &amp; Udi</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904110000 -0300" stop="20260904110000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904110000 -0300" stop="20260904110000 -0300">
     <title lang="pt">Mistérios Animais</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904110000 -0300" stop="20260904111000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904110000 -0300" stop="20260904111000 -0300">
     <title lang="pt">Boas Práticas Escolares</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904111000 -0300" stop="20260904111500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904111000 -0300" stop="20260904111500 -0300">
     <title lang="pt">Morgana &amp; Celeste</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904111500 -0300" stop="20260904113000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904111500 -0300" stop="20260904113000 -0300">
     <title lang="pt">Weme e a Natureza</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904113000 -0300" stop="20260904120000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904113000 -0300" stop="20260904120000 -0300">
     <title lang="pt">Arquivo SP</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904120000 -0300" stop="20260904120000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904120000 -0300" stop="20260904120000 -0300">
     <title lang="pt">Opinião</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904120000 -0300" stop="20260904123000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904120000 -0300" stop="20260904123000 -0300">
     <title lang="pt">Bem Brasil</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904123000 -0300" stop="20260904130000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904123000 -0300" stop="20260904130000 -0300">
     <title lang="pt">Agrocultura</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904130000 -0300" stop="20260904132500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904130000 -0300" stop="20260904132500 -0300">
     <title lang="pt">Propaganda Eleitoral</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904132500 -0300" stop="20260904133000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904132500 -0300" stop="20260904133000 -0300">
     <title lang="pt">Léo - O Caminhão</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904133000 -0300" stop="20260904133000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904133000 -0300" stop="20260904133000 -0300">
     <title lang="pt">Planeta Palavra</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904133000 -0300" stop="20260904134000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904133000 -0300" stop="20260904134000 -0300">
     <title lang="pt">Shaun, o Carneiro</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904134000 -0300" stop="20260904134500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904134000 -0300" stop="20260904134500 -0300">
     <title lang="pt">Bino e Fino</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904134500 -0300" stop="20260904135000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904134500 -0300" stop="20260904135000 -0300">
     <title lang="pt">Mistérios Animais</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904135000 -0300" stop="20260904140000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904135000 -0300" stop="20260904140000 -0300">
     <title lang="pt">Milo</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904140000 -0300" stop="20260904140000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904140000 -0300" stop="20260904140000 -0300">
     <title lang="pt">Meu AmigãoZão</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904140000 -0300" stop="20260904141500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904140000 -0300" stop="20260904141500 -0300">
     <title lang="pt">Irmão do Jorel</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904141500 -0300" stop="20260904141500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904141500 -0300" stop="20260904141500 -0300">
     <title lang="pt">Contos da Masha</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904141500 -0300" stop="20260904143000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904141500 -0300" stop="20260904143000 -0300">
     <title lang="pt">Turma da Mônica</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904143000 -0300" stop="20260904143000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904143000 -0300" stop="20260904143000 -0300">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904143000 -0300" stop="20260904144500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904143000 -0300" stop="20260904144500 -0300">
     <title lang="pt">Mundo da Lua</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904144500 -0300" stop="20260904150000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904144500 -0300" stop="20260904150000 -0300">
     <title lang="pt">Sol em Dó Ré Mi</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904150000 -0300" stop="20260904150000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904150000 -0300" stop="20260904150000 -0300">
     <title lang="pt">Gildo</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904150000 -0300" stop="20260904151500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904150000 -0300" stop="20260904151500 -0300">
     <title lang="pt">Pantanal, Planície das Águas</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904151500 -0300" stop="20260904153000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904151500 -0300" stop="20260904153000 -0300">
     <title lang="pt">Bluey</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904153000 -0300" stop="20260904154500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904153000 -0300" stop="20260904154500 -0300">
     <title lang="pt">Iuri &amp; Udi</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904154500 -0300" stop="20260904160000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904154500 -0300" stop="20260904160000 -0300">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904160000 -0300" stop="20260904160000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904160000 -0300" stop="20260904160000 -0300">
     <title lang="pt">Weme e a Natureza</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904160000 -0300" stop="20260904162000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904160000 -0300" stop="20260904162000 -0300">
     <title lang="pt">Brasil e Alemanha: 200 Anos de História</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904162000 -0300" stop="20260904163000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904162000 -0300" stop="20260904163000 -0300">
     <title lang="pt">Turma da Mônica</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904163000 -0300" stop="20260904163000 -0300">
-    <title lang="pt">Canal Aberto Programação TV Cultura</title>
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904163000 -0300" stop="20260904163000 -0300">
+    <title lang="pt">Quintal da Cultura</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904163000 -0300" stop="20260904164500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904163000 -0300" stop="20260904164500 -0300">
     <title lang="pt">Vozes do Rio Pinheiros</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904164500 -0300" stop="20260904164500 -0300">
-    <title lang="pt">Irmão do Jorel : Ladrãozinho de Shopping</title>
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904164500 -0300" stop="20260904164500 -0300">
+    <title lang="pt">Canal Aberto Programação TV Cultura</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904164500 -0300" stop="20260904170000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904164500 -0300" stop="20260904170000 -0300">
     <title lang="pt">Irmão do Jorel</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904170000 -0300" stop="20260904170000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904170000 -0300" stop="20260904170000 -0300">
     <title lang="pt">Mundo da Lua : A Revolta de Marli Silva</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904170000 -0300" stop="20260904173000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904170000 -0300" stop="20260904173000 -0300">
     <title lang="pt">Planeta Terra</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904173000 -0300" stop="20260904173000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904173000 -0300" stop="20260904173000 -0300">
     <title lang="pt">O Mundo de Beakman : Protozoologia, Beakmania e Dublês de Cinema</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904173000 -0300" stop="20260904180000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904173000 -0300" stop="20260904180000 -0300">
     <title lang="pt">O Mundo de Beakman</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904180000 -0300" stop="20260904180000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904180000 -0300" stop="20260904180000 -0300">
     <title lang="pt">Shaun, o Carneiro : Atraente</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904180000 -0300" stop="20260904181000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904180000 -0300" stop="20260904181000 -0300">
     <title lang="pt">Repórter Eco</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904181000 -0300" stop="20260904182000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904181000 -0300" stop="20260904182000 -0300">
     <title lang="pt">Shaun, o Carneiro : Dia do Banho</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904182000 -0300" stop="20260904183000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904182000 -0300" stop="20260904183000 -0300">
     <title lang="pt">Shaun, o Carneiro : O Grandioso Timmy</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904183000 -0300" stop="20260904183000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904183000 -0300" stop="20260904183000 -0300">
     <title lang="pt">Antimatéria - Energia Geek</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904190000 -0300" stop="20260904190000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904190000 -0300" stop="20260904190000 -0300">
     <title lang="pt">Cultura Livre</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904190000 -0300" stop="20260904193000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904190000 -0300" stop="20260904193000 -0300">
     <title lang="pt">Vitrine</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904193000 -0300" stop="20260904193000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904193000 -0300" stop="20260904193000 -0300">
     <title lang="pt">De Olho no Voto</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904193000 -0300" stop="20260904200000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904193000 -0300" stop="20260904200000 -0300">
     <title lang="pt">Museus de São Paulo</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904200000 -0300" stop="20260904200000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904200000 -0300" stop="20260904200000 -0300">
     <title lang="pt">Opinião : Doenças Raras - Desafios e Avanços</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904200000 -0300" stop="20260904203000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904200000 -0300" stop="20260904203000 -0300">
     <title lang="pt">Café Filosófico</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904203000 -0300" stop="20260904203000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904203000 -0300" stop="20260904203000 -0300">
     <title lang="pt">Horário Eleitoral</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904203000 -0300" stop="20260904205500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904203000 -0300" stop="20260904205500 -0300">
     <title lang="pt">Propaganda Eleitoral</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904205500 -0300" stop="20260904205500 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904205500 -0300" stop="20260904205500 -0300">
     <title lang="pt">Jornal da Cultura Jornalismo</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904210000 -0300" stop="20260904220000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904210000 -0300" stop="20260904220000 -0300">
     <title lang="pt">Persona</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904220000 -0300" stop="20260904220000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904220000 -0300" stop="20260904220000 -0300">
     <title lang="pt">Metrópolis</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904220000 -0300" stop="20260904223000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904220000 -0300" stop="20260904223000 -0300">
     <title lang="pt">O Novo Sempre Vem</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904223000 -0300" stop="20260904223000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904223000 -0300" stop="20260904223000 -0300">
     <title lang="pt">Entrelinhas</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904223000 -0300" stop="20260904233000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904223000 -0300" stop="20260904233000 -0300">
     <title lang="pt">Provoca</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904233000 -0300" stop="20260904233000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904233000 -0300" stop="20260904233000 -0300">
     <title lang="pt">Festa Baile</title>
   </programme>
-  <programme channel="tv-cultura-16-30-quintal-no-museu-museu-catavento-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva.br" start="20260904233000 -0300" stop="20260905003000 -0300">
+  <programme channel="tv-cultura-16-45-irmao-do-jorel-ladraozinho-de-shopping-17-00-mundo-da-lua-a-revolta-de-marli-silva-17-30-o-mundo-de-beakman-protozoologia-beakmania-e-dubles-de-cinema.br" start="20260904233000 -0300" stop="20260905003000 -0300">
     <title lang="pt">Clássicos</title>
   </programme>
   <programme channel="tv-gazeta-15-30-mulheres-17-45-gazeta-news-18-00-gazeta-esportiva.br" start="20260904023700 -0300" stop="20260904023700 -0300">
