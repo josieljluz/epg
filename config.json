@@ -9,6 +9,90 @@
       "tvg_id": "TVAssembleiaPiaui.br",
       "tvg_name": "TV Assembleia"
     },
+    {
+      "name": "TV Alvorada",
+      "tvg_id": "TVAlvorada.br",
+      "tvg_name": "TV Alvorada"
+    },
+
+    {
+      "name": "TV Cidade Verde Piaui",
+      "tvg_id": "TVCidadeVerdePiaui.br",
+      "tvg_name": "TV Cidade Verde Piaui"
+    },
+
+    {
+      "name": "O Dia TV",
+      "tvg_id": "ODiaTV.br",
+      "tvg_name": "O Dia TV"
+    },
+
+    {
+      "name": "TV Assembleia Piaui",
+      "tvg_id": "TVAssembleiaPiaui.br",
+      "tvg_name": "TV Assembleia Piaui"
+    },
+    
+    {
+      "name": "Rede Meio Norte",
+      "tvg_id": "RedeMeioNorte.br",
+      "tvg_name": "Rede Meio Norte"
+    },
+
+    {
+      "name": "TV Antena 10",
+      "tvg_id": "TVAntena10.br",
+      "tvg_name": "TV Antena 10"
+    },
+    
+    {
+      "name": "Band Piaui",
+      "tvg_id": "BandPiaui.br",
+      "tvg_name": "Band Piaui"
+    },
+	
+	
+    {
+      "name": "Sexy Hot",
+      "tvg_id": "SexyHot.br",
+      "tvg_name": "Sexy Hot"
+    },
+	
+    {
+      "name": "Sex Zone",
+      "tvg_id": "SexZone.br",
+      "tvg_name": "Sex Zone"
+    },
+    
+    {
+      "name": "Vênus TV",
+      "tvg_id": "VenusTV.br",
+      "tvg_name": "Vênus TV"
+    },
+
+    {
+      "name": "Canal Adulto",
+      "tvg_id": "CanalAdulto.br",
+      "tvg_name": "Canal Adulto"
+    },
+    
+    {
+      "name": "Playboy TV",
+      "tvg_id": "PlayboyTV.br",
+      "tvg_name": "Playboy TV"
+    },
+
+    {
+      "name": "Sex Prive",
+      "tvg_id": "SexPrive.br",
+      "tvg_name": "Sex Prive"
+    },
+
+    {
+      "name": "Sextreme",
+      "tvg_id": "Sextreme.br",
+      "tvg_name": "Sextreme"
+    },
 
     {
       "name": "TV Brasil",
@@ -39,36 +123,6 @@
       "tvg_id": "TVClube.br",
       "tvg_name": "TV Clube"
     },
-    
-    {
-      "name": "TV Alvorada",
-      "tvg_id": "TVAlvorada.br",
-      "tvg_name": "TV Alvorada"
-    },
-
-    {
-      "name": "TV Cidade Verde Piaui",
-      "tvg_id": "TVCidadeVerdePiaui.br",
-      "tvg_name": "TV Cidade Verde Piaui"
-    },
-    
-    {
-      "name": "O Dia TV",
-      "tvg_id": "ODiaTV.br",
-      "tvg_name": "O Dia TV"
-    },
-
-    {
-      "name": "TV Assembleia Piaui",
-      "tvg_id": "TVAssembleiaPiaui.br",
-      "tvg_name": "TV Assembleia Piaui"
-    },
-    
-    {
-      "name": "Rede Meio Norte",
-      "tvg_id": "RedeMeioNorte.br",
-      "tvg_name": "Rede Meio Norte"
-    },
 
     {
       "name": "SBT News",
@@ -76,60 +130,6 @@
       "tvg_name": "SBT News"
     },
     
-    {
-      "name": "Sex Prive",
-      "tvg_id": "SexPrive.br",
-      "tvg_name": "Sex Prive"
-    },
-
-    {
-      "name": "Sextreme",
-      "tvg_id": "Sextreme.br",
-      "tvg_name": "Sextreme"
-    },
-    
-    {
-      "name": "Sexy Hot",
-      "tvg_id": "SexyHot.br",
-      "tvg_name": "Sexy Hot"
-    },
-
-    {
-      "name": "TV Antena 10",
-      "tvg_id": "TVAntena10.br",
-      "tvg_name": "TV Antena 10"
-    },
-    
-    {
-      "name": "Band Piaui",
-      "tvg_id": "BandPiaui.br",
-      "tvg_name": "Band Piaui"
-    },
-
-    {
-      "name": "Sex Zone",
-      "tvg_id": "SexZone.br",
-      "tvg_name": "Sex Zone"
-    },
-    
-    {
-      "name": "Vênus TV",
-      "tvg_id": "VenusTV.br",
-      "tvg_name": "Vênus TV"
-    },
-
-    {
-      "name": "Canal Adulto",
-      "tvg_id": "CanalAdulto.br",
-      "tvg_name": "Canal Adulto"
-    },
-    
-    {
-      "name": "Playboy TV",
-      "tvg_id": "PlayboyTV.br",
-      "tvg_name": "Playboy TV"
-    },
-
     {
       "name": "Globo News",
       "tvg_id": "GloboNews.br",
@@ -262,4 +262,3 @@
     "Record HD": "RecordTV.br"
   }
 }
-
