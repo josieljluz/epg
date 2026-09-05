@@ -1,0 +1,2337 @@
+{
+  "days": 2,
+  "timezone": "America/Fortaleza",
+  "channels": [
+    {
+      "name": "TV CIDADE VERDE 5.1",
+      "tvg_id": "TVAlvoradadoSul.br",
+      "tvg_name": "TV CIDADE VERDE 5.1",
+      "group": "Brasil",
+      "url": "https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w320028308.m3u8",
+      "logo": "https://cidadeverde.com/assets/images/cvplay/tv-canal-51-min.png"
+    },
+    {
+      "name": "TV CIDADE VERDE PICOS",
+      "tvg_id": "TVAlvoradadoSul.br",
+      "tvg_name": "TV CIDADE VERDE PICOS",
+      "group": "Brasil",
+      "url": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8",
+      "logo": "https://cidadeverde.com/assets/images/cvplay/tv-canal-picos-min.png"
+    },
+    {
+      "name": "ANTENA 10",
+      "tvg_id": "TVAntena10(src09).br",
+      "tvg_name": "ANTENA 10",
+      "group": "Brasil",
+      "url": "https://srt01.logicahost.com.br/a10mais/tracks-v1a1/mono.ts.m3u8",
+      "logo": "https://i.imgur.com/BqzBsdm.png"
+    },
+    {
+      "name": "O DIA TV",
+      "tvg_id": "RedeTV.br",
+      "tvg_name": "O DIA TV",
+      "group": "Brasil",
+      "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w183304090.m3u8",
+      "logo": "https://i.imgur.com/xbPIEDD.png"
+    },
+    {
+      "name": "TV CANÇÃO NOVA",
+      "tvg_id": "CancaoNova.br",
+      "tvg_name": "TV CANÇÃO NOVA",
+      "group": "Brasil",
+      "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1352164720.m3u8",
+      "logo": "https://static.cancaonova.com/images/marca.png"
+    },
+    {
+      "name": "TV CANÇÃO NOVA PT",
+      "tvg_id": "CancaoNova.pt",
+      "tvg_name": "TV CANÇÃO NOVA PT",
+      "group": "Brasil",
+      "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w785649869.m3u8",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSVzyD-TnBiJSUeVfuMz4Qn5eMtxDKuluBLeddUP290Xe7WOdrtC2q_XZ&s=10"
+    },
+    {
+      "name": "TV CIDADE VERDE",
+      "tvg_id": "TVCidadeVerde.br",
+      "tvg_name": "TV CIDADE VERDE",
+      "group": "Brasil",
+      "url": "https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w1356678882.m3u8",
+      "logo": "https://i.imgur.com/rkGbMJL.png"
+    },
+    {
+      "name": "TV ASSEMBLEIA PI",
+      "tvg_id": "tv.assembleia.pi",
+      "tvg_name": "TV ASSEMBLEIA PI",
+      "group": "Brasil",
+      "url": "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8",
+      "logo": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/noticias-tv/tv-assembleia-amplia-presenca-no-interior-do-piaui-e-chega-cada-vez-mais-perto-da-populacao/@@images/410cfea5-1d43-4468-beb4-77e0099502da.jpeg"
+    },
+    {
+      "name": "TV BRASIL HD",
+      "tvg_id": "Tvbrasil.br",
+      "tvg_name": "TV BRASIL HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/63.m3u8",
+      "logo": "https://i.ibb.co/c8PhcZ1/d334NZ3.png"
+    },
+    {
+      "name": "TV CULTURA FHD",
+      "tvg_id": "Tvcultura.br",
+      "tvg_name": "TV CULTURA FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/17486.m3u8",
+      "logo": "https://googleplusimages.com/CULTURA.png"
+    },
+    {
+      "name": "TV CULTURA HD",
+      "tvg_id": "Tvcultura.br",
+      "tvg_name": "TV CULTURA HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/96215.m3u8",
+      "logo": "https://i.imgur.com/zbIF1bs.png"
+    },
+    {
+      "name": "TV DIÁRIO CE HD",
+      "tvg_id": "Tvdiarioce.br",
+      "tvg_name": "TV DIÁRIO CE HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/161052.m3u8",
+      "logo": "https://googleplusimages.com/TVDIARIO.png"
+    },
+    {
+      "name": "TV DIÁRIO CE HD",
+      "tvg_id": "Tvdiarioce.br",
+      "tvg_name": "TV DIÁRIO CE HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/112530.m3u8",
+      "logo": "https://googleplusimages.com/TVDIARIO.png"
+    },
+    {
+      "name": "BAND SP FHD",
+      "tvg_id": "Bandsp.br",
+      "tvg_name": "BAND SP FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/6269.m3u8",
+      "logo": "https://googleplusimages.com/BAND.png"
+    },
+    {
+      "name": "BAND SP HD+",
+      "tvg_id": "Bandsp.br",
+      "tvg_name": "BAND SP HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219941.m3u8",
+      "logo": "https://googleplusimages.com/BAND.png"
+    },
+    {
+      "name": "BAND SP HD",
+      "tvg_id": "Bandsp.br",
+      "tvg_name": "BAND SP HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/193.m3u8",
+      "logo": "https://googleplusimages.com/BAND.png"
+    },
+    {
+      "name": "BAND SP SD",
+      "tvg_id": "Bandsp.br",
+      "tvg_name": "BAND SP SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2083.m3u8",
+      "logo": "https://googleplusimages.com/BAND.png"
+    },
+    {
+      "name": "BANDNEWS TV SD",
+      "tvg_id": "Bandnews.br",
+      "tvg_name": "BANDNEWS TV SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2082.m3u8",
+      "logo": "https://googleplusimages.com/BANDNEWSTV.png"
+    },
+    {
+      "name": "BANDSPORTS SD",
+      "tvg_id": "Bandsports.br",
+      "tvg_name": "BANDSPORTS SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2081.m3u8",
+      "logo": "https://googleplusimages.com/BANDSPORTS.png"
+    },
+
+    {
+      "name": "CNN BRASIL SD",
+      "tvg_id": "Cnn.br",
+      "tvg_name": "CNN BRASIL SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/24566.m3u8",
+      "logo": "https://googleplusimages.com/CNNBRASIL.png"
+    },
+    {
+      "name": "COMBATE SD",
+      "tvg_id": "Combate.br",
+      "tvg_name": "COMBATE SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2076.m3u8",
+      "logo": "https://googleplusimages.com/COMBATE.png"
+    },
+    {
+      "name": "DISCOVERY CHANNEL SD",
+      "tvg_id": "Discovery.br",
+      "tvg_name": "DISCOVERY CHANNEL SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/111.m3u8",
+      "logo": "https://googleplusimages.com/DISCOVERYCHANNEL.png"
+    },
+    {
+      "name": "ESPN SD",
+      "tvg_id": "Espn.br",
+      "tvg_name": "ESPN SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2067.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN2 SD",
+      "tvg_id": "Espn2.br",
+      "tvg_name": "ESPN2 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1986.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN3 SD",
+      "tvg_id": "Espn3.br",
+      "tvg_name": "ESPN3 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN4 SD",
+      "tvg_id": "Espn4.br",
+      "tvg_name": "ESPN4 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2066.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN5 SD",
+      "tvg_id": "Espn5.br",
+      "tvg_name": "ESPN5 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2065.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN6 SD",
+      "tvg_id": "Espn6.br",
+      "tvg_name": "ESPN6 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/5085.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "GLOBONEWS SD",
+      "tvg_id": "Globonews.br",
+      "tvg_name": "GLOBONEWS SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/6234.m3u8",
+      "logo": "https://googleplusimages.com/GLOBONEWS.png"
+    },
+    {
+      "name": "GLOBOPLAY NOVELAS SD",
+      "tvg_id": "Globoplaynovelas.br",
+      "tvg_name": "GLOBOPLAY NOVELAS SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/6229.m3u8",
+      "logo": "https://googleplusimages.com/GPLAYNOVELAS.png"
+    },
+    {
+      "name": "INVESTIGAÇÃO DISCOVERY SD",
+      "tvg_id": "Id.br",
+      "tvg_name": "INVESTIGAÇÃO DISCOVERY SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/25266.m3u8",
+      "logo": "https://googleplusimages.com/ID.png"
+    },
+    {
+      "name": "JP NEWS SD",
+      "tvg_id": "Jpnews.br",
+      "tvg_name": "JP NEWS SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/206771.m3u8",
+      "logo": "http://googleplusimages.com/JPNEWS.png"
+    },
+    {
+      "name": "MULTISHOW SD",
+      "tvg_id": "Multishow.br",
+      "tvg_name": "MULTISHOW SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1967.m3u8",
+      "logo": "https://googleplusimages.com/MULTISHOW.png"
+    },
+    {
+      "name": "PREMIERE 2 SD",
+      "tvg_id": "Premiere2.br",
+      "tvg_name": "PREMIERE 2 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2043.m3u8",
+      "logo": "https://i.ibb.co/X3GXCSD/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 3 SD",
+      "tvg_id": "Premiere3.br",
+      "tvg_name": "PREMIERE 3 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2042.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 4 SD",
+      "tvg_id": "Premiere4.br",
+      "tvg_name": "PREMIERE 4 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2041.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 5 SD",
+      "tvg_id": "Premiere5.br",
+      "tvg_name": "PREMIERE 5 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2040.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 6 SD",
+      "tvg_id": "Premiere6.br",
+      "tvg_name": "PREMIERE 6 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2039.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 7 SD",
+      "tvg_id": "Premiere7.br",
+      "tvg_name": "PREMIERE 7 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2038.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE CLUBES SD",
+      "tvg_id": "Premiereclubes.br",
+      "tvg_name": "PREMIERE CLUBES SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2044.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "SPACE SD",
+      "tvg_id": "Space.br",
+      "tvg_name": "SPACE SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/3486.m3u8",
+      "logo": "https://googleplusimages.com/SPACE.png"
+    },
+    {
+      "name": "SPORTV 2 SD",
+      "tvg_id": "Sportv2.br",
+      "tvg_name": "SPORTV 2 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2024.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 3 SD",
+      "tvg_id": "Sportv3.br",
+      "tvg_name": "SPORTV 3 SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2023.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV SD",
+      "tvg_id": "Sportv.br",
+      "tvg_name": "SPORTV SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2022.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "TNT NOVELAS SD",
+      "tvg_id": "Tntnovelas.br",
+      "tvg_name": "TNT NOVELAS SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2021.m3u8",
+      "logo": "https://googleplusimages.com/TNTNOVELAS.png"
+    },
+    {
+      "name": "TNT SD",
+      "tvg_id": "Tnt.br",
+      "tvg_name": "TNT SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2014.m3u8",
+      "logo": "https://i.imgur.com/mHfzG0c.png"
+    },
+    {
+      "name": "TV MIRANTE SÃO LUÍS SD",
+      "tvg_id": "Globoma.br",
+      "tvg_name": "TV MIRANTE SÃO LUÍS SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181277.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV NOVO TEMPO SD",
+      "tvg_id": "Tvnovotempo.br",
+      "tvg_name": "TV NOVO TEMPO SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/26123.m3u8",
+      "logo": "https://googleplusimages.com/TVNOVOTEMPO.png"
+    },
+    {
+      "name": "TV TRIBUNA SD",
+      "tvg_id": "Tvtribunasp.br",
+      "tvg_name": "TV TRIBUNA SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/182363.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV VERDES MARES SD",
+      "tvg_id": "Globoce.br",
+      "tvg_name": "TV VERDES MARES SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181275.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "COMBATE FHD",
+      "tvg_id": "Combate.br",
+      "tvg_name": "COMBATE FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181287.m3u8",
+      "logo": "https://googleplusimages.com/COMBATE.png"
+    },
+    {
+      "name": "COMBATE FHD",
+      "tvg_id": "Combate.br",
+      "tvg_name": "COMBATE FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/5206.m3u8",
+      "logo": "https://googleplusimages.com/COMBATE.png"
+    },
+    {
+      "name": "COMBATE HD",
+      "tvg_id": "Combate.br",
+      "tvg_name": "COMBATE HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1811.m3u8",
+      "logo": "https://googleplusimages.com/COMBATE.png"
+    },
+    {
+      "name": "COMBATE HD",
+      "tvg_id": "Combate.br",
+      "tvg_name": "COMBATE HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/152611.m3u8",
+      "logo": "https://googleplusimages.com/COMBATE.png"
+    },
+    {
+      "name": "DISCOVERY CHANNEL FHD",
+      "tvg_id": "Discovery.br",
+      "tvg_name": "DISCOVERY CHANNEL FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181210.m3u8",
+      "logo": "https://googleplusimages.com/DISCOVERYCHANNEL.png"
+    },
+    {
+      "name": "DISCOVERY CHANNEL FHD",
+      "tvg_id": "Discovery.br",
+      "tvg_name": "DISCOVERY CHANNEL FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7437.m3u8",
+      "logo": "https://googleplusimages.com/DISCOVERYCHANNEL.png"
+    },
+    {
+      "name": "DISCOVERY CHANNEL HD",
+      "tvg_id": "Discovery.br",
+      "tvg_name": "DISCOVERY CHANNEL HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/188.m3u8",
+      "logo": "https://googleplusimages.com/DISCOVERYCHANNEL.png"
+    },
+    {
+      "name": "DISCOVERY CHANNEL HD",
+      "tvg_id": "Discovery.br",
+      "tvg_name": "DISCOVERY CHANNEL HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1810.m3u8",
+      "logo": "https://googleplusimages.com/DISCOVERYCHANNEL.png"
+    },
+    {
+      "name": "INVESTIGAÇÃO DISCOVERY FHD",
+      "tvg_id": "Id.br",
+      "tvg_name": "INVESTIGAÇÃO DISCOVERY FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/11105.m3u8",
+      "logo": "https://googleplusimages.com/ID.png"
+    },
+    {
+      "name": "INVESTIGAÇÃO DISCOVERY H265",
+      "tvg_id": "Id.br",
+      "tvg_name": "INVESTIGAÇÃO DISCOVERY H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1909.m3u8",
+      "logo": "https://googleplusimages.com/ID.png"
+    },
+    {
+      "name": "INVESTIGAÇÃO DISCOVERY HD",
+      "tvg_id": "Id.br",
+      "tvg_name": "INVESTIGAÇÃO DISCOVERY HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/161.m3u8",
+      "logo": "https://googleplusimages.com/ID.png"
+    },
+    {
+      "name": "INVESTIGAÇÃO DISCOVERY HD",
+      "tvg_id": "Id.br",
+      "tvg_name": "INVESTIGAÇÃO DISCOVERY HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/2086.m3u8",
+      "logo": "https://googleplusimages.com/ID.png"
+    },
+    {
+      "name": "ESPN FHD",
+      "tvg_id": "Espn.br",
+      "tvg_name": "ESPN FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180661.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN FHD",
+      "tvg_id": "",
+      "tvg_name": "ESPN FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/13732.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN H265",
+      "tvg_id": "Espn.br",
+      "tvg_name": "ESPN H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1923.m3u8",
+      "logo": "https://i.ibb.co/GtvSTgW/ESPN.png"
+    },
+    {
+      "name": "ESPN HD+",
+      "tvg_id": "Espn.br",
+      "tvg_name": "ESPN HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219728.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN HD",
+      "tvg_id": "Espn.br",
+      "tvg_name": "ESPN HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN HD",
+      "tvg_id": "Espn.br",
+      "tvg_name": "ESPN HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1801.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN2 FHD",
+      "tvg_id": "Espn2.br",
+      "tvg_name": "ESPN2 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180660.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN2 FHD",
+      "tvg_id": "",
+      "tvg_name": "ESPN2 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7605.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN2 H265",
+      "tvg_id": "Espn2.br",
+      "tvg_name": "ESPN2 H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/25203.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN2 HD",
+      "tvg_id": "Espn2.br",
+      "tvg_name": "ESPN2 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/179.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN2 HD",
+      "tvg_id": "Espn2.br",
+      "tvg_name": "ESPN2 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1800.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN2 HD⁺",
+      "tvg_id": "Espn2.br",
+      "tvg_name": "ESPN2 HD⁺",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219729.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN3 FHD",
+      "tvg_id": "Espn3.br",
+      "tvg_name": "ESPN3 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180659.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN3 FHD",
+      "tvg_id": "",
+      "tvg_name": "ESPN3 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/11118.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN3 H265",
+      "tvg_id": "Espn3.br",
+      "tvg_name": "ESPN3 H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1922.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN3 HD",
+      "tvg_id": "Espn3.br",
+      "tvg_name": "ESPN3 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1450.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN3 HD",
+      "tvg_id": "Espn3.br",
+      "tvg_name": "ESPN3 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1802.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN3 HD⁺",
+      "tvg_id": "Espn3.br",
+      "tvg_name": "ESPN3 HD⁺",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219730.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN4 FHD",
+      "tvg_id": "Espn4.br",
+      "tvg_name": "ESPN4 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180658.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN4 FHD",
+      "tvg_id": "",
+      "tvg_name": "ESPN4 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/6207.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN4 HD+",
+      "tvg_id": "Espn4.br",
+      "tvg_name": "ESPN4 HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219731.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN4 HD",
+      "tvg_id": "Espn4.br",
+      "tvg_name": "ESPN4 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/173.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN4 HD",
+      "tvg_id": "Espn4.br",
+      "tvg_name": "ESPN4 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1795.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN5 FHD",
+      "tvg_id": "Espn5.br",
+      "tvg_name": "ESPN5 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180657.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN5 FHD",
+      "tvg_id": "",
+      "tvg_name": "ESPN5 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7602.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN5 H265",
+      "tvg_id": "Espn5.br",
+      "tvg_name": "ESPN5 H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1919.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN5 HD",
+      "tvg_id": "Espn5.br",
+      "tvg_name": "ESPN5 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/172.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN5 HD",
+      "tvg_id": "Espn5.br",
+      "tvg_name": "ESPN5 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1796.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN5 HD⁺",
+      "tvg_id": "Espn5.br",
+      "tvg_name": "ESPN5 HD⁺",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219732.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN6 FHD",
+      "tvg_id": "Espn6.br",
+      "tvg_name": "ESPN6 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180656.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN6 FHD",
+      "tvg_id": "",
+      "tvg_name": "ESPN6 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/8549.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN6 H265",
+      "tvg_id": "Espn6.br",
+      "tvg_name": "ESPN6 H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/5092.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN6 HD",
+      "tvg_id": "Espn6.br",
+      "tvg_name": "ESPN6 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/12030.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "ESPN6 HD",
+      "tvg_id": "Espn6.br",
+      "tvg_name": "ESPN6 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/13855.m3u8",
+      "logo": "https://googleplusimages.com/ESPN.png"
+    },
+    {
+      "name": "BANDSPORTS FHD",
+      "tvg_id": "Bandsports.br",
+      "tvg_name": "BANDSPORTS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181205.m3u8",
+      "logo": "https://googleplusimages.com/BANDSPORTS.png"
+    },
+    {
+      "name": "BANDSPORTS FHD",
+      "tvg_id": "Bandsports.br",
+      "tvg_name": "BANDSPORTS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/11130.m3u8",
+      "logo": "https://googleplusimages.com/BANDSPORTS.png"
+    },
+    {
+      "name": "BANDSPORTS H265",
+      "tvg_id": "Bandsports.br",
+      "tvg_name": "BANDSPORTS H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1931.m3u8",
+      "logo": "https://googleplusimages.com/BANDSPORTS.png"
+    },
+    {
+      "name": "BANDSPORTS HD",
+      "tvg_id": "Bandsports.br",
+      "tvg_name": "BANDSPORTS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/192.m3u8",
+      "logo": "https://googleplusimages.com/BANDSPORTS.png"
+    },
+    {
+      "name": "BANDSPORTS HD",
+      "tvg_id": "Bandsports.br",
+      "tvg_name": "BANDSPORTS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1815.m3u8",
+      "logo": "https://googleplusimages.com/BANDSPORTS.png"
+    },
+    {
+      "name": "GE TV FHDR",
+      "tvg_id": "Getv.br",
+      "tvg_name": "GE TV FHDR",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/262472.m3u8",
+      "logo": "https://googleplusimages.com/GETV.png"
+    },
+    {
+      "name": "GE TV FHD",
+      "tvg_id": "Getv.br",
+      "tvg_name": "GE TV FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/262471.m3u8",
+      "logo": "https://googleplusimages.com/GETV.png"
+    },
+    {
+      "name": "GE TV HD+",
+      "tvg_id": "Getv.br",
+      "tvg_name": "GE TV HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/256281.m3u8",
+      "logo": "https://googleplusimages.com/GETV.png"
+    },
+    {
+      "name": "NSPORTS FHD",
+      "tvg_id": "Nsports.br",
+      "tvg_name": "NSPORTS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/161055.m3u8",
+      "logo": "https://googleplusimages.com/NSPORTS.png"
+    },
+    {
+      "name": "NSPORTS HD",
+      "tvg_id": "Nsports.br",
+      "tvg_name": "NSPORTS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/161056.m3u8",
+      "logo": "https://googleplusimages.com/NSPORTS.png"
+    },
+    {
+      "name": "PARAMOUNT+ 1 HD+",
+      "tvg_id": "Paramountplus1.br",
+      "tvg_name": "PARAMOUNT+ 1 HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219760.m3u8",
+      "logo": "https://googleplusimages.com/PARAMOUNTPLUS.png"
+    },
+    {
+      "name": "PARAMOUNT+ 2 HD+",
+      "tvg_id": "Paramountplus2.br",
+      "tvg_name": "PARAMOUNT+ 2 HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219761.m3u8",
+      "logo": "https://googleplusimages.com/PARAMOUNTPLUS.png"
+    },
+    {
+      "name": "PARAMOUNT+ 3 HD+",
+      "tvg_id": "Paramountplus3.br",
+      "tvg_name": "PARAMOUNT+ 3 HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219762.m3u8",
+      "logo": "https://googleplusimages.com/PARAMOUNTPLUS.png"
+    },
+    {
+      "name": "PARAMOUNT+ 4 HD+",
+      "tvg_id": "Paramountplus4.br",
+      "tvg_name": "PARAMOUNT+ 4 HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219763.m3u8",
+      "logo": "https://googleplusimages.com/PARAMOUNTPLUS.png"
+    },
+    {
+      "name": "XSPORTS FHD",
+      "tvg_id": "Xsports.br",
+      "tvg_name": "XSPORTS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/249643.m3u8",
+      "logo": "https://googleplusimages.com/XSPORTS.png"
+    },
+    {
+      "name": "XSPORTS HD",
+      "tvg_id": "Xsports.br",
+      "tvg_name": "XSPORTS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/249644.m3u8",
+      "logo": "https://googleplusimages.com/XSPORTS.png"
+    },
+    {
+      "name": "COPA DO BRASIL 01 HD",
+      "tvg_id": "Copadobrasil.br",
+      "tvg_name": "COPA DO BRASIL 01 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/326467.m3u8",
+      "logo": "https://googleplusimages.com/COPADOBRASIL.png"
+    },
+    {
+      "name": "COPA DO BRASIL 02 HD",
+      "tvg_id": "Copadobrasil.br",
+      "tvg_name": "COPA DO BRASIL 02 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/326468.m3u8",
+      "logo": "https://googleplusimages.com/COPADOBRASIL.png"
+    },
+    {
+      "name": "COPA DO BRASIL 03 HD",
+      "tvg_id": "Copadobrasil.br",
+      "tvg_name": "COPA DO BRASIL 03 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/326469.m3u8",
+      "logo": "https://googleplusimages.com/COPADOBRASIL.png"
+    },
+    {
+      "name": "COPA DO BRASIL 04 HD",
+      "tvg_id": "Copadobrasil.br",
+      "tvg_name": "COPA DO BRASIL 04 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/326470.m3u8",
+      "logo": "https://googleplusimages.com/COPADOBRASIL.png"
+    },
+    {
+      "name": "SPORTYNET HD+",
+      "tvg_id": "Sportynet.br",
+      "tvg_name": "SPORTYNET HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219764.m3u8",
+      "logo": "http://googleplusimages.com/SPORTYNET.png"
+    },
+    {
+      "name": "SPORTYNET+ 1 HD+",
+      "tvg_id": "Sportynetplus1.br",
+      "tvg_name": "SPORTYNET+ 1 HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219765.m3u8",
+      "logo": "http://googleplusimages.com/SPORTYNET.png"
+    },
+    {
+      "name": "SPORTYNET+ 2 HD+",
+      "tvg_id": "Sportynetplus2.br",
+      "tvg_name": "SPORTYNET+ 2 HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219766.m3u8",
+      "logo": "http://googleplusimages.com/SPORTYNET.png"
+    },
+    {
+      "name": "SPORTYNET+ 3 HD+",
+      "tvg_id": "Sportynetplus3.br",
+      "tvg_name": "SPORTYNET+ 3 HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219767.m3u8",
+      "logo": "http://googleplusimages.com/SPORTYNET.png"
+    },
+    {
+      "name": "PRIME VIDEO 1 HD",
+      "tvg_id": "Primevideo.br",
+      "tvg_name": "PRIME VIDEO 1 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/248962.m3u8",
+      "logo": "https://googleplusimages.com/PRIMEVIDEO.png"
+    },
+    {
+      "name": "PRIME VIDEO 1 HD",
+      "tvg_id": "Primevideo.br",
+      "tvg_name": "PRIME VIDEO 1 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/70414.m3u8",
+      "logo": "https://googleplusimages.com/PRIMEVIDEO.png"
+    },
+    {
+      "name": "PRIME VIDEO 2 HD",
+      "tvg_id": "Primevideo.br",
+      "tvg_name": "PRIME VIDEO 2 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/249376.m3u8",
+      "logo": "https://googleplusimages.com/PRIMEVIDEO.png"
+    },
+    {
+      "name": "PRIME VIDEO 2 HD",
+      "tvg_id": "",
+      "tvg_name": "PRIME VIDEO 2 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/81093.m3u8",
+      "logo": "https://googleplusimages.com/PRIMEVIDEO.png"
+    },
+    {
+      "name": "PRIME VIDEO 3 HD",
+      "tvg_id": "Primevideo.br",
+      "tvg_name": "PRIME VIDEO 3 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/249377.m3u8",
+      "logo": "https://googleplusimages.com/PRIMEVIDEO.png"
+    },
+    {
+      "name": "PRIME VIDEO 3 HD",
+      "tvg_id": "",
+      "tvg_name": "PRIME VIDEO 3 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/112748.m3u8",
+      "logo": "https://googleplusimages.com/PRIMEVIDEO.png"
+    },
+    {
+      "name": "APPLE TV+ HD",
+      "tvg_id": "Appletvplus.br",
+      "tvg_name": "APPLE TV+ HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/126984.m3u8",
+      "logo": "https://googleplusimages.com/APPLETVPLUS.png"
+    },
+    {
+      "name": "APPLE TV+ HD",
+      "tvg_id": "Appletvplus.br",
+      "tvg_name": "APPLE TV+ HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/126982.m3u8",
+      "logo": "https://googleplusimages.com/APPLETVPLUS.png"
+    },
+    {
+      "name": "CAZETV 1 HD",
+      "tvg_id": "Cazetv.br",
+      "tvg_name": "CAZETV 1 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/218927.m3u8",
+      "logo": "https://googleplusimages.com/CAZETV.png"
+    },
+    {
+      "name": "COMBATE FHDR",
+      "tvg_id": "Combate.br",
+      "tvg_name": "COMBATE FHDR",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/110829.m3u8",
+      "logo": "https://googleplusimages.com/COMBATE.png"
+    },
+    {
+      "name": "SPACE FHD",
+      "tvg_id": "Space.br",
+      "tvg_name": "SPACE FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181224.m3u8",
+      "logo": "https://googleplusimages.com/SPACE.png"
+    },
+    {
+      "name": "SPACE FHD",
+      "tvg_id": "Space.br",
+      "tvg_name": "SPACE FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/11090.m3u8",
+      "logo": "https://googleplusimages.com/SPACE.png"
+    },
+    {
+      "name": "SPACE H265",
+      "tvg_id": "Space.br",
+      "tvg_name": "SPACE H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/10530.m3u8",
+      "logo": "https://googleplusimages.com/SPACE.png"
+    },
+    {
+      "name": "SPACE HD",
+      "tvg_id": "Space.br",
+      "tvg_name": "SPACE HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/146.m3u8",
+      "logo": "https://googleplusimages.com/SPACE.png"
+    },
+    {
+      "name": "SPACE HD",
+      "tvg_id": "Space.br",
+      "tvg_name": "SPACE HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1780.m3u8",
+      "logo": "https://googleplusimages.com/SPACE.png"
+    },
+    {
+      "name": "TNT FHD",
+      "tvg_id": "Tnt.br",
+      "tvg_name": "TNT FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181221.m3u8",
+      "logo": "https://googleplusimages.com/TNT.png"
+    },
+    {
+      "name": "TNT FHD",
+      "tvg_id": "Tnt.br",
+      "tvg_name": "TNT FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/11084.m3u8",
+      "logo": "https://googleplusimages.com/TNT.png"
+    },
+    {
+      "name": "TNT H265",
+      "tvg_id": "Tnt.br",
+      "tvg_name": "TNT H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1893.m3u8",
+      "logo": "https://googleplusimages.com/TNT.png"
+    },
+    {
+      "name": "TNT HD",
+      "tvg_id": "Tnt.br",
+      "tvg_name": "TNT HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/136.m3u8",
+      "logo": "https://googleplusimages.com/TNT.png"
+    },
+    {
+      "name": "TNT HD",
+      "tvg_id": "Tnt.br",
+      "tvg_name": "TNT HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1769.m3u8",
+      "logo": "https://googleplusimages.com/TNT.png"
+    },
+    {
+      "name": "TNT NOVELAS FHD",
+      "tvg_id": "Tntnovelas.br",
+      "tvg_name": "TNT NOVELAS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181223.m3u8",
+      "logo": "https://googleplusimages.com/TNTNOVELAS.png"
+    },
+    {
+      "name": "TNT NOVELAS FHD",
+      "tvg_id": "Tntnovelas.br",
+      "tvg_name": "TNT NOVELAS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/11087.m3u8",
+      "logo": "https://googleplusimages.com/TNTNOVELAS.png"
+    },
+    {
+      "name": "TNT NOVELAS H265",
+      "tvg_id": "Tntnovelas.br",
+      "tvg_name": "TNT NOVELAS H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1898.m3u8",
+      "logo": "https://googleplusimages.com/TNTNOVELAS.png"
+    },
+    {
+      "name": "TNT NOVELAS HD",
+      "tvg_id": "Tntnovelas.br",
+      "tvg_name": "TNT NOVELAS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/142.m3u8",
+      "logo": "https://googleplusimages.com/TNTNOVELAS.png"
+    },
+    {
+      "name": "TNT NOVELAS HD",
+      "tvg_id": "Tntnovelas.br",
+      "tvg_name": "TNT NOVELAS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/4769.m3u8",
+      "logo": "https://googleplusimages.com/TNTNOVELAS.png"
+    },
+    {
+      "name": "CANCAO NOVA FHD",
+      "tvg_id": "Cancaonova.br",
+      "tvg_name": "CANCAO NOVA FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/162581.m3u8",
+      "logo": "https://googleplusimages.com/CANCAONOVA.png"
+    },
+    {
+      "name": "CANCAO NOVA HD+",
+      "tvg_id": "Cancaonova.br",
+      "tvg_name": "CANCAO NOVA HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/40226.m3u8",
+      "logo": "https://googleplusimages.com/CANCAONOVA.png"
+    },
+    {
+      "name": "CANCAO NOVA HD",
+      "tvg_id": "Cancaonova.br",
+      "tvg_name": "CANCAO NOVA HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/40225.m3u8",
+      "logo": "https://googleplusimages.com/CANCAONOVA.png"
+    },
+    {
+      "name": "TV ALVORADA HD",
+      "tvg_id": "Globopi.br",
+      "tvg_name": "TV ALVORADA HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/160963.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV VERDES MARES CARIRI FHD",
+      "tvg_id": "Globoce.br",
+      "tvg_name": "TV VERDES MARES CARIRI FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/178023.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV VERDES MARES CARIRI HD",
+      "tvg_id": "Globoce.br",
+      "tvg_name": "TV VERDES MARES CARIRI HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/40122.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV VERDES MARES CARIRI HD",
+      "tvg_id": "Globoce.br",
+      "tvg_name": "TV VERDES MARES CARIRI HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/95281.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV CLUBE FHD",
+      "tvg_id": "Globopi.br",
+      "tvg_name": "TV CLUBE FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181276.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV CLUBE FHD",
+      "tvg_id": "Globopi.br",
+      "tvg_name": "TV CLUBE FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/160964.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV CLUBE HD",
+      "tvg_id": "Globopi.br",
+      "tvg_name": "TV CLUBE HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/111945.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV CLUBE HD",
+      "tvg_id": "Globopi.br",
+      "tvg_name": "TV CLUBE HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/10770.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV VERDES MARES FHD",
+      "tvg_id": "Globoce.br",
+      "tvg_name": "TV VERDES MARES FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/25357.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV VERDES MARES H265",
+      "tvg_id": "Globoce.br",
+      "tvg_name": "TV VERDES MARES H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/95283.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV VERDES MARES HD",
+      "tvg_id": "Globoce.br",
+      "tvg_name": "TV VERDES MARES HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/24677.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV VERDES MARES HD",
+      "tvg_id": "Globoce.br",
+      "tvg_name": "TV VERDES MARES HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/25356.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV DIÁRIO FHD",
+      "tvg_id": "Tvdiariosp.br",
+      "tvg_name": "TV DIÁRIO FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181644.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV DIÁRIO FHD",
+      "tvg_id": "Tvdiariosp.br",
+      "tvg_name": "TV DIÁRIO FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/25602.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV DIÁRIO HD",
+      "tvg_id": "Tvdiariosp.br",
+      "tvg_name": "TV DIÁRIO HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/59532.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV DIÁRIO HD",
+      "tvg_id": "Tvdiariosp.br",
+      "tvg_name": "TV DIÁRIO HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/25603.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV TRIBUNA FHD",
+      "tvg_id": "Tvtribunasp.br",
+      "tvg_name": "TV TRIBUNA FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/182362.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV TRIBUNA FHD",
+      "tvg_id": "Tvtribunasp.br",
+      "tvg_name": "TV TRIBUNA FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/40102.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV TRIBUNA HD",
+      "tvg_id": "Tvtribunasp.br",
+      "tvg_name": "TV TRIBUNA HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/40100.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "TV TRIBUNA HD",
+      "tvg_id": "Tvtribunasp.br",
+      "tvg_name": "TV TRIBUNA HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/40103.m3u8",
+      "logo": "https://googleplusimages.com/GLOBO.png"
+    },
+    {
+      "name": "BANDNEWS TV FHD",
+      "tvg_id": "Bandnews.br",
+      "tvg_name": "BANDNEWS TV FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181180.m3u8",
+      "logo": "https://googleplusimages.com/BANDNEWSTV.png"
+    },
+    {
+      "name": "BANDNEWS TV FHD",
+      "tvg_id": "Bandnews.br",
+      "tvg_name": "BANDNEWS TV FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7766.m3u8",
+      "logo": "https://googleplusimages.com/BANDNEWSTV.png"
+    },
+    {
+      "name": "BANDNEWS TV H265",
+      "tvg_id": "Bandnews.br",
+      "tvg_name": "BANDNEWS TV H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/25281.m3u8",
+      "logo": "https://googleplusimages.com/BANDNEWSTV.png"
+    },
+    {
+      "name": "BANDNEWS TV HD",
+      "tvg_id": "Bandnews.br",
+      "tvg_name": "BANDNEWS TV HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/37908.m3u8",
+      "logo": "https://googleplusimages.com/BANDNEWSTV.png"
+    },
+    {
+      "name": "BANDNEWS TV HD",
+      "tvg_id": "Bandnews.br",
+      "tvg_name": "BANDNEWS TV HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7637.m3u8",
+      "logo": "https://googleplusimages.com/BANDNEWSTV.png"
+    },
+    {
+      "name": "CNN BRASIL FHD",
+      "tvg_id": "Cnn.br",
+      "tvg_name": "CNN BRASIL FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181181.m3u8",
+      "logo": "https://googleplusimages.com/CNNBRASIL.png"
+    },
+    {
+      "name": "CNN BRASIL FHD",
+      "tvg_id": "Cnn.br",
+      "tvg_name": "CNN BRASIL FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/24564.m3u8",
+      "logo": "https://googleplusimages.com/CNNBRASIL.png"
+    },
+    {
+      "name": "CNN BRASIL H265",
+      "tvg_id": "Cnn.br",
+      "tvg_name": "CNN BRASIL H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/24720.m3u8",
+      "logo": "https://googleplusimages.com/CNNBRASIL.png"
+    },
+    {
+      "name": "CNN BRASIL HD",
+      "tvg_id": "Cnn.br",
+      "tvg_name": "CNN BRASIL HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/24719.m3u8",
+      "logo": "https://googleplusimages.com/CNNBRASIL.png"
+    },
+    {
+      "name": "CNN BRASIL HD",
+      "tvg_id": "Cnn.br",
+      "tvg_name": "CNN BRASIL HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/24565.m3u8",
+      "logo": "https://googleplusimages.com/CNNBRASIL.png"
+    },
+    {
+      "name": "CNN BRASIL MONEY HD",
+      "tvg_id": "Cnnmoney.br",
+      "tvg_name": "CNN BRASIL MONEY HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219770.m3u8",
+      "logo": "https://googleplusimages.com/CNNMONEY.png"
+    },
+    {
+      "name": "CNN MONEY HD",
+      "tvg_id": "Cnnmoney.br",
+      "tvg_name": "CNN MONEY HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/319034.m3u8",
+      "logo": "https://googleplusimages.com/CNNMONEY.png"
+    },
+    {
+      "name": "GLOBONEWS FHD",
+      "tvg_id": "Globonews.br",
+      "tvg_name": "GLOBONEWS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181179.m3u8",
+      "logo": "https://googleplusimages.com/GLOBONEWS.png"
+    },
+    {
+      "name": "GLOBONEWS FHD",
+      "tvg_id": "",
+      "tvg_name": "GLOBONEWS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7550.m3u8",
+      "logo": "https://googleplusimages.com/GLOBONEWS.png"
+    },
+    {
+      "name": "GLOBONEWS H265",
+      "tvg_id": "Globonews.br",
+      "tvg_name": "GLOBONEWS H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/10519.m3u8",
+      "logo": "https://googleplusimages.com/GLOBONEWS.png"
+    },
+    {
+      "name": "GLOBONEWS HD",
+      "tvg_id": "Globonews.br",
+      "tvg_name": "GLOBONEWS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1678.m3u8",
+      "logo": "https://googleplusimages.com/GLOBONEWS.png"
+    },
+    {
+      "name": "GLOBONEWS HD",
+      "tvg_id": "Globonews.br",
+      "tvg_name": "GLOBONEWS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1883.m3u8",
+      "logo": "https://googleplusimages.com/GLOBONEWS.png"
+    },
+    {
+      "name": "JP NEWS FHD",
+      "tvg_id": "Jpnews.br",
+      "tvg_name": "JP NEWS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181182.m3u8",
+      "logo": "https://googleplusimages.com/JPNEWS.png"
+    },
+    {
+      "name": "JP NEWS FHD",
+      "tvg_id": "Jpnews.br",
+      "tvg_name": "JP NEWS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/55851.m3u8",
+      "logo": "https://googleplusimages.com/JPNEWS.png"
+    },
+    {
+      "name": "JP NEWS H265",
+      "tvg_id": "Jpnews.br",
+      "tvg_name": "JP NEWS H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/55852.m3u8",
+      "logo": "https://googleplusimages.com/JPNEWS.png"
+    },
+    {
+      "name": "JP NEWS HD",
+      "tvg_id": "Jpnews.br",
+      "tvg_name": "JP NEWS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/86766.m3u8",
+      "logo": "https://googleplusimages.com/JPNEWS.png"
+    },
+    {
+      "name": "JP NEWS HD",
+      "tvg_id": "Jpnews.br",
+      "tvg_name": "JP NEWS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/55853.m3u8",
+      "logo": "https://googleplusimages.com/JPNEWS.png"
+    },
+    {
+      "name": "RECORD NEWS FHD",
+      "tvg_id": "Recordnews.br",
+      "tvg_name": "RECORD NEWS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181178.m3u8",
+      "logo": "https://googleplusimages.com/RECORDNEWS.png"
+    },
+    {
+      "name": "RECORD NEWS HD+",
+      "tvg_id": "Recordnews.br",
+      "tvg_name": "RECORD NEWS HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/42.m3u8",
+      "logo": "https://googleplusimages.com/RECORDNEWS.png"
+    },
+    {
+      "name": "RECORD NEWS HD",
+      "tvg_id": "Recordnews.br",
+      "tvg_name": "RECORD NEWS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/13800.m3u8",
+      "logo": "https://googleplusimages.com/RECORDNEWS.png"
+    },
+    {
+      "name": "RECORD NEWS INTERNACIONAL SD",
+      "tvg_id": "RecordNews.pt",
+      "tvg_name": "RECORD NEWS INTERNACIONAL SD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/23755.m3u8",
+      "logo": "https://googleplusimages.com/RECORDNEWS.png"
+    },
+    {
+      "name": "SBT NEWS HD",
+      "tvg_id": "",
+      "tvg_name": "SBT NEWS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/291218.m3u8",
+      "logo": "http://st1.cdn-bgf.com:8080/icon/35129-b-1765835097096.jpg"
+    },
+    {
+      "name": "TIMES BRASIL HD+",
+      "tvg_id": "Timescnbc.br",
+      "tvg_name": "TIMES BRASIL HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/271619.m3u8",
+      "logo": "https://googleplusimages.com/TIMESBRASIL.png"
+    },
+    {
+      "name": "TIMES BRASIL HD",
+      "tvg_id": "Timescnbc.br",
+      "tvg_name": "TIMES BRASIL HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/199898.m3u8",
+      "logo": "https://googleplusimages.com/TIMESBRASIL.png"
+    },
+    {
+      "name": "TIMES BRASIL | CNBC HD",
+      "tvg_id": "Timescnbc.br",
+      "tvg_name": "TIMES BRASIL | CNBC HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/319037.m3u8",
+      "logo": "https://googleplusimages.com/TIMESBRASIL.png"
+    },
+    {
+      "name": "PREMIERE 2 FHD",
+      "tvg_id": "Premiere2.br",
+      "tvg_name": "PREMIERE 2 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180650.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 2 FHD",
+      "tvg_id": "",
+      "tvg_name": "PREMIERE 2 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7413.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 2 FHD⁺",
+      "tvg_id": "Premiere2.br",
+      "tvg_name": "PREMIERE 2 FHD⁺",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219280.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 2 H265",
+      "tvg_id": "Premiere2.br",
+      "tvg_name": "PREMIERE 2 H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1904.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 2 HD",
+      "tvg_id": "Premiere2.br",
+      "tvg_name": "PREMIERE 2 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/153.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 2 HD",
+      "tvg_id": "Premiere2.br",
+      "tvg_name": "PREMIERE 2 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/5078.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 3 FHD+",
+      "tvg_id": "Premiere3.br",
+      "tvg_name": "PREMIERE 3 FHD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219281.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 3 FHD",
+      "tvg_id": "Premiere3.br",
+      "tvg_name": "PREMIERE 3 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180649.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 3 FHD",
+      "tvg_id": "",
+      "tvg_name": "PREMIERE 3 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7412.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 3 HD",
+      "tvg_id": "Premiere3.br",
+      "tvg_name": "PREMIERE 3 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/152.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 3 HD",
+      "tvg_id": "Premiere3.br",
+      "tvg_name": "PREMIERE 3 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/5077.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 4 FHD+",
+      "tvg_id": "Premiere4.br",
+      "tvg_name": "PREMIERE 4 FHD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219282.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 4 FHD",
+      "tvg_id": "Premiere4.br",
+      "tvg_name": "PREMIERE 4 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180648.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 4 FHD",
+      "tvg_id": "",
+      "tvg_name": "PREMIERE 4 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7411.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 4 HD",
+      "tvg_id": "Premiere4.br",
+      "tvg_name": "PREMIERE 4 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/151.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 4 HD",
+      "tvg_id": "Premiere4.br",
+      "tvg_name": "PREMIERE 4 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/5071.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 5 FHD+",
+      "tvg_id": "Premiere5.br",
+      "tvg_name": "PREMIERE 5 FHD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219283.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 5 FHD",
+      "tvg_id": "Premiere5.br",
+      "tvg_name": "PREMIERE 5 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180647.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 5 FHD",
+      "tvg_id": "",
+      "tvg_name": "PREMIERE 5 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7410.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 5 HD",
+      "tvg_id": "Premiere5.br",
+      "tvg_name": "PREMIERE 5 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/150.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 5 HD",
+      "tvg_id": "Premiere5.br",
+      "tvg_name": "PREMIERE 5 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/5070.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 6 FHD+",
+      "tvg_id": "Premiere6.br",
+      "tvg_name": "PREMIERE 6 FHD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219284.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 6 FHD",
+      "tvg_id": "Premiere6.br",
+      "tvg_name": "PREMIERE 6 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180646.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 6 FHD",
+      "tvg_id": "",
+      "tvg_name": "PREMIERE 6 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7416.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 6 HD",
+      "tvg_id": "Premiere6.br",
+      "tvg_name": "PREMIERE 6 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/6219.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 6 HD",
+      "tvg_id": "Premiere6.br",
+      "tvg_name": "PREMIERE 6 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7691.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 7 FHD+",
+      "tvg_id": "Premiere7.br",
+      "tvg_name": "PREMIERE 7 FHD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219285.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 7 FHD",
+      "tvg_id": "Premiere7.br",
+      "tvg_name": "PREMIERE 7 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180645.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 7 FHD",
+      "tvg_id": "",
+      "tvg_name": "PREMIERE 7 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7415.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 7 HD",
+      "tvg_id": "Premiere7.br",
+      "tvg_name": "PREMIERE 7 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/6218.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 7 HD",
+      "tvg_id": "Premiere7.br",
+      "tvg_name": "PREMIERE 7 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7690.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 8  - MOSAICO HD",
+      "tvg_id": "Premiere8.br",
+      "tvg_name": "PREMIERE 8  - MOSAICO HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/93712.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 8  - MOSAICO HD",
+      "tvg_id": "Premiere8.br",
+      "tvg_name": "PREMIERE 8  - MOSAICO HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/40345.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE 8 - MOSAICO FHD⁺",
+      "tvg_id": "Premiere8.br",
+      "tvg_name": "PREMIERE 8 - MOSAICO FHD⁺",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219286.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE CLUBES FHD+",
+      "tvg_id": "Premiereclubes.br",
+      "tvg_name": "PREMIERE CLUBES FHD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219279.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE CLUBES FHD",
+      "tvg_id": "Premiereclubes.br",
+      "tvg_name": "PREMIERE CLUBES FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180651.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE CLUBES FHD",
+      "tvg_id": "",
+      "tvg_name": "PREMIERE CLUBES FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7404.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE CLUBES HD",
+      "tvg_id": "Premiereclubes.br",
+      "tvg_name": "PREMIERE CLUBES HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/154.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "PREMIERE CLUBES HD",
+      "tvg_id": "Premiereclubes.br",
+      "tvg_name": "PREMIERE CLUBES HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1781.m3u8",
+      "logo": "https://googleplusimages.com/PREMIERE.png"
+    },
+    {
+      "name": "RECORD PIAUI HD",
+      "tvg_id": "Recordpi.br",
+      "tvg_name": "RECORD PIAUI HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/333010.m3u8",
+      "logo": "https://googleplusimages.com/RECORD.png"
+    },
+    {
+      "name": "RECORD RIO FHD",
+      "tvg_id": "Recordrj.br",
+      "tvg_name": "RECORD RIO FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181970.m3u8",
+      "logo": "https://googleplusimages.com/RECORD.png"
+    },
+    {
+      "name": "RECORD RIO FHD",
+      "tvg_id": "Recordrj.br",
+      "tvg_name": "RECORD RIO FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/93926.m3u8",
+      "logo": "https://googleplusimages.com/RECORD.png"
+    },
+    {
+      "name": "RECORD RIO HD",
+      "tvg_id": "Recordrj.br",
+      "tvg_name": "RECORD RIO HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/25292.m3u8",
+      "logo": "https://googleplusimages.com/RECORD.png"
+    },
+    {
+      "name": "RECORD SP HD",
+      "tvg_id": "Recordsp.br",
+      "tvg_name": "RECORD SP HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/149.m3u8",
+      "logo": "https://googleplusimages.com/RECORD.png"
+    },
+    {
+      "name": "TV ANTENA 10 HD",
+      "tvg_id": "Recordpi.br",
+      "tvg_name": "TV ANTENA 10 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/112031.m3u8",
+      "logo": "https://googleplusimages.com/RECORD.png"
+    },
+    {
+      "name": "TV ANTENA 10 HD",
+      "tvg_id": "Recordpi.br",
+      "tvg_name": "TV ANTENA 10 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/183977.m3u8",
+      "logo": "https://googleplusimages.com/RECORD.png"
+    },
+    {
+      "name": "SBT NACIONAL HD",
+      "tvg_id": "Sbtsp.br",
+      "tvg_name": "SBT NACIONAL HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/112290.m3u8",
+      "logo": "https://googleplusimages.com/SBT.png"
+    },
+    {
+      "name": "SBT RIO FHD",
+      "tvg_id": "Sbtrj.br",
+      "tvg_name": "SBT RIO FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181472.m3u8",
+      "logo": "https://i.imgur.com/i4lyaIU.png"
+    },
+    {
+      "name": "SBT RIO FHD",
+      "tvg_id": "Sbtrj.br",
+      "tvg_name": "SBT RIO FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/40187.m3u8",
+      "logo": "https://googleplusimages.com/SBT.png"
+    },
+    {
+      "name": "SBT RIO HD",
+      "tvg_id": "Sbtrj.br",
+      "tvg_name": "SBT RIO HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/110857.m3u8",
+      "logo": "https://i.imgur.com/i4lyaIU.png"
+    },
+    {
+      "name": "SBT SP FHD+",
+      "tvg_id": "Sbtsp.br",
+      "tvg_name": "SBT SP FHD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/6267.m3u8",
+      "logo": "https://googleplusimages.com/SBT.png"
+    },
+    {
+      "name": "SBT SP FHD",
+      "tvg_id": "Sbtsp.br",
+      "tvg_name": "SBT SP FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181328.m3u8",
+      "logo": "https://i.imgur.com/i4lyaIU.png"
+    },
+    {
+      "name": "SBT SP H265",
+      "tvg_id": "Sbtsp.br",
+      "tvg_name": "SBT SP H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/94708.m3u8",
+      "logo": "https://googleplusimages.com/SBT.png"
+    },
+    {
+      "name": "SBT SP HD",
+      "tvg_id": "Sbtsp.br",
+      "tvg_name": "SBT SP HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/147.m3u8",
+      "logo": "https://googleplusimages.com/SBT.png"
+    },
+    {
+      "name": "TV CIDADE VERDE HD",
+      "tvg_id": "Sbtpi.br",
+      "tvg_name": "TV CIDADE VERDE HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/112297.m3u8",
+      "logo": "https://i.imgur.com/i4lyaIU.png"
+    },
+    {
+      "name": "TV CIDADE VERDE HD",
+      "tvg_id": "Sbtpi.br",
+      "tvg_name": "TV CIDADE VERDE HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/73204.m3u8",
+      "logo": "https://googleplusimages.com/SBT.png"
+    },
+    {
+      "name": "TV CIDADE VERDE PICOS HD+",
+      "tvg_id": "Sbtpi.br",
+      "tvg_name": "TV CIDADE VERDE PICOS HD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/282554.m3u8",
+      "logo": "https://googleplusimages.com/SBT.png"
+    },
+    {
+      "name": "SPORTV 2 FHD+",
+      "tvg_id": "Sportv2.br",
+      "tvg_name": "SPORTV 2 FHD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/217943.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 2 FHD",
+      "tvg_id": "Sportv2.br",
+      "tvg_name": "SPORTV 2 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180653.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 2 FHD",
+      "tvg_id": "",
+      "tvg_name": "SPORTV 2 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7600.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 2 H265",
+      "tvg_id": "Sportv2.br",
+      "tvg_name": "SPORTV 2 H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7496.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 2 HD",
+      "tvg_id": "Sportv2.br",
+      "tvg_name": "SPORTV 2 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/145.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 2 HD",
+      "tvg_id": "Sportv2.br",
+      "tvg_name": "SPORTV 2 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1779.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 3 FHD+",
+      "tvg_id": "Sportv3.br",
+      "tvg_name": "SPORTV 3 FHD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/217944.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 3 FHD",
+      "tvg_id": "Sportv3.br",
+      "tvg_name": "SPORTV 3 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180652.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 3 FHD",
+      "tvg_id": "",
+      "tvg_name": "SPORTV 3 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7599.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 3 H265",
+      "tvg_id": "Sportv3.br",
+      "tvg_name": "SPORTV 3 H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7733.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 3 HD",
+      "tvg_id": "Sportv3.br",
+      "tvg_name": "SPORTV 3 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/144.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 3 HD",
+      "tvg_id": "Sportv3.br",
+      "tvg_name": "SPORTV 3 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1778.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 4 FHD",
+      "tvg_id": "Sportv4.br",
+      "tvg_name": "SPORTV 4 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/182088.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 4 FHD",
+      "tvg_id": "",
+      "tvg_name": "SPORTV 4 FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/182227.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 4 HD",
+      "tvg_id": "Sportv4.br",
+      "tvg_name": "SPORTV 4 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/182089.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 4 HD",
+      "tvg_id": "Sportv4.br",
+      "tvg_name": "SPORTV 4 HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/182226.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 5 (PPV)",
+      "tvg_id": "",
+      "tvg_name": "SPORTV 5 (PPV)",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/256320.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV 6 (PPV)",
+      "tvg_id": "",
+      "tvg_name": "SPORTV 6 (PPV)",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/256321.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV FHD+",
+      "tvg_id": "Sportv.br",
+      "tvg_name": "SPORTV FHD+",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/217942.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV FHD",
+      "tvg_id": "Sportv.br",
+      "tvg_name": "SPORTV FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/180654.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV FHD",
+      "tvg_id": "",
+      "tvg_name": "SPORTV FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/6208.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV H265",
+      "tvg_id": "Sportv.br",
+      "tvg_name": "SPORTV H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/7495.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV HD",
+      "tvg_id": "Sportv.br",
+      "tvg_name": "SPORTV HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/143.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "SPORTV HD",
+      "tvg_id": "Sportv.br",
+      "tvg_name": "SPORTV HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1777.m3u8",
+      "logo": "https://googleplusimages.com/SPORTV.png"
+    },
+    {
+      "name": "+SBT NOVELAS HD",
+      "tvg_id": "Sbtnovelas.br",
+      "tvg_name": "+SBT NOVELAS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/186790.m3u8",
+      "logo": "https://googleplusimages.com/MAISSBT.png"
+    }, 
+    {
+      "name": "CANAL UOL HD",
+      "tvg_id": "Canaluol.br",
+      "tvg_name": "CANAL UOL HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/219682.m3u8",
+      "logo": "https://googleplusimages.com/CANALUOL.png"
+    },
+    {
+      "name": "GLOBOPLAY NOVELAS FHD",
+      "tvg_id": "Globoplaynovelas.br",
+      "tvg_name": "GLOBOPLAY NOVELAS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181204.m3u8",
+      "logo": "https://googleplusimages.com/GPLAYNOVELAS.png"
+    },
+    {
+      "name": "GLOBOPLAY NOVELAS FHD",
+      "tvg_id": "Globoplaynovelas.br",
+      "tvg_name": "GLOBOPLAY NOVELAS FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/111570.m3u8",
+      "logo": "https://googleplusimages.com/GPLAYNOVELAS.png"
+    },
+    {
+      "name": "GLOBOPLAY NOVELAS H265",
+      "tvg_id": "Globoplaynovelas.br",
+      "tvg_name": "GLOBOPLAY NOVELAS H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/111571.m3u8",
+      "logo": "https://googleplusimages.com/GPLAYNOVELAS.png"
+    },
+    {
+      "name": "GLOBOPLAY NOVELAS HD",
+      "tvg_id": "Globoplaynovelas.br",
+      "tvg_name": "GLOBOPLAY NOVELAS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/133.m3u8",
+      "logo": "https://googleplusimages.com/GPLAYNOVELAS.png"
+    },
+    {
+      "name": "GLOBOPLAY NOVELAS HD",
+      "tvg_id": "Globoplaynovelas.br",
+      "tvg_name": "GLOBOPLAY NOVELAS HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1762.m3u8",
+      "logo": "https://googleplusimages.com/GPLAYNOVELAS.png"
+    },
+    {
+      "name": "MULTISHOW FHD",
+      "tvg_id": "Multishow.br",
+      "tvg_name": "MULTISHOW FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/181198.m3u8",
+      "logo": "https://googleplusimages.com/MULTISHOW.png"
+    },
+    {
+      "name": "MULTISHOW FHD",
+      "tvg_id": "Multishow.br",
+      "tvg_name": "MULTISHOW FHD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/11098.m3u8",
+      "logo": "https://googleplusimages.com/MULTISHOW.png"
+    },
+    {
+      "name": "MULTISHOW H265",
+      "tvg_id": "Multishow.br",
+      "tvg_name": "MULTISHOW H265",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1907.m3u8",
+      "logo": "https://googleplusimages.com/MULTISHOW.png"
+    },
+    {
+      "name": "MULTISHOW HD",
+      "tvg_id": "Multishow.br",
+      "tvg_name": "MULTISHOW HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/159.m3u8",
+      "logo": "https://googleplusimages.com/MULTISHOW.png"
+    },
+    {
+      "name": "MULTISHOW HD",
+      "tvg_id": "Multishow.br",
+      "tvg_name": "MULTISHOW HD",
+      "group": "Brasil",
+      "url": "http://mdplay.me:8880/live/53950387/37906861/1786.m3u8",
+      "logo": "https://googleplusimages.com/MULTISHOW.png"
+    }
+  ],
+  "aliases": {}
+}
+
