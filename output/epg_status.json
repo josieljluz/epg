@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-26T05:11:42.083363-03:00",
+  "generated_at": "2026-09-27T05:48:25.463951-03:00",
   "channels": 21,
-  "programs": 1471,
+  "programs": 1473,
   "sources": {
     "tv_assembleia": 278,
     "tvmap": 0,
     "mitv": 0,
-    "guiadetv": 2741
+    "guiadetv": 2745
   }
 }
